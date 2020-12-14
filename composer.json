@@ -1,4 +1,6 @@
 {
+    "name": "yfrd/mybuilder",
+    "description": "Projet pour me perfectionner au ci cd sur github",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
