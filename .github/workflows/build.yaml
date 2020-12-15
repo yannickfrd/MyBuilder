@@ -48,5 +48,5 @@ jobs:
       - name: Prepare test
         run: composer prepare-test
 
-     - name: Run test suite
-       run: php bin/phpunit
+      - name: Run test suite
+        run: php bin/phpunit
